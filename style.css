@@ -1,0 +1,47 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Dispositivos extra small (telefones em modo retrato, com menos de 576px)
+@media (max-width: 575.98px) { ... }
+
+// Dispositivos small (telefones em modo paisagem, com menos de 768px)
+@media (max-width: 767.98px) { ... }
+
+// Dispositivos médios (tablets com menos de 992px)
+@media (max-width: 991.98px) { ... }
+
+// Dispositivos large (desktops com menos de 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// Dispositivos extra large (desktops grandes)
+// Nenhuma media query, já que o breakpoint extra large não possui nenhum limite acima. */
